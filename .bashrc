@@ -13,6 +13,11 @@ PS1='{\u@\h ./\W}\$ '
 
 
 ## Custom Things!
+# Colors! Remove that # in the end
+
+# export PS1={'\[\e[0;36m\]\u\[\e[0m\] @ \[\e[0;32m\]\h\[\e[0m\]}:./\[\e[0;35m\]\w\[\e[0m\]> '
+
+
 # Change dirs
 
 alias ..="cd .."
